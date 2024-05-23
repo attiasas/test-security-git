@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "json": "9.0.6",
+    "xml": "1.0.1",
     "protobufjs": "6.11.2"
   }
 }
