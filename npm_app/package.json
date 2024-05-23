@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json": "9.0.6"
+    "json": "9.0.6",
+    "protobufjs": "6.11.2"
   }
 }
