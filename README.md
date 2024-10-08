@@ -11,4 +11,5 @@ Test project that adds / removes security issues in commits
 | 4 | no issue commit | f65fd83f2c228f26c1e599157fed432e16ffe5bb | - | - | 3 |
 | 5 | Add npm app | 2c51295ce6600ade6058c0819d4f4fae759f4d85 | +1 SCA (high)<br> json:9.0.6 | npm_app/package.json | 4 |
 | 6 | Add protobufjs | 861b7aff93eeb9be4806f1d9cc668e3d702d90b6 | +2 SCA (high)<br> protobufjs:6.11.2 | npm_app/package.json | 6 |
-| 7 | add xml | - | - | - | 6 |
+| 7 | add xml | 03a76bb1b49688e050fe3a002927dd8ad5edb24d | - | - | 6 |
+| 8 | remove json | - | -1 SCA (high)<br> json:9.0.6 | npm_app/package.json | 5 |
